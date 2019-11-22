@@ -4,6 +4,7 @@
 
 body
 {
+    background: url("medias/bg.jpg") no-repeat center;
     width: 900px;
     margin: auto;
     background-color:#c1e3fd;
