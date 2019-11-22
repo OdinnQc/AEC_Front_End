@@ -6,7 +6,7 @@ body
 {
     width: 900px;
     margin: auto;
-    background: url("../medias/bg.png") no-repeat center;
+    background: url("medias/bg.png") no-repeat center;
     color: #000000;
 }
 a
