@@ -1,0 +1,31 @@
+/* style.css */
+/* Programmé par Lucas Comtois */
+/* 2019-11-21 */
+
+body
+{
+    width: 900px;
+    margin: auto;
+    background-color:#c1e3fd;
+    color: #000000;
+}
+a
+{
+    color: #000000;
+    text-decoration: underline;
+}
+a:hover
+{
+    color: red;
+    text-decoration: none;
+}
+h1,h2{
+    color: darkgreen;
+    text-align: center;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 24px;
+}
